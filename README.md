@@ -1,4 +1,3 @@
-<h1 align="center">Olá, eu sou o Eduardo 👋</h1>
 <h3 align="center">Software & DevOps Engineer</h3>
 
 <p align="center">
