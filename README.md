@@ -38,8 +38,4 @@
 
 <br/>
 
-### 📊 Minhas Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=eduardocecilio&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=eduardocecilio&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" alt="Linguagens mais usadas" />
-</div>
+
