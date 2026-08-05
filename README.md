@@ -21,7 +21,7 @@ Sou um engenheiro especializado em **DevOps, Automação (RPA) e Arquitetura de 
 
 Atuo na interseção entre o desenvolvimento de software e a infraestrutura, garantindo que o código não apenas funcione, mas seja conteinerizado, implantado e mantido de forma inteligente e segura.
 
-## 🛠️ Core Competencies
+## 🛠️ Principais Competências
 
 > **Nota:** Para refletir minha verdadeira bagagem sem a necessidade de atualizações constantes, os tópicos abaixo representam os **pilares do meu conhecimento arquitetural**, e não apenas um sumário de frameworks passageiros.
 
