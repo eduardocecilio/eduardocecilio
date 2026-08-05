@@ -38,4 +38,7 @@
 
 <br/>
 
-
+### 📊 Minhas Estatísticas
+<div align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=eduardocecilio&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff&hide=stars,issues,prs" alt="Estatísticas do GitHub" />
+</div>
