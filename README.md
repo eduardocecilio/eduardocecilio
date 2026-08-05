@@ -1,4 +1,4 @@
-<h1 align="center">Eduardo Cecílio</h1>
+<h1 align="center">Olá, eu sou o Eduardo 👋</h1>
 <h3 align="center">Software & DevOps Engineer</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Perfil Profissional
+## 👨‍💻 Sobre mim
 
 Sou um engenheiro especializado em **DevOps, Automação (RPA) e Arquitetura de Software**. Meu foco é projetar sistemas distribuídos, criar pipelines de integração/entrega contínua (CI/CD) e desenvolver aplicações que resolvem problemas reais com alto desempenho. 
 
@@ -57,5 +57,5 @@ Atuo na interseção entre o desenvolvimento de software e a infraestrutura, gar
 ## 📊 Atividade & Consistência
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardocecilio&theme=radical&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardocecilio&theme=radical&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&hide_title=true" alt="GitHub Streak" />
 </div>
