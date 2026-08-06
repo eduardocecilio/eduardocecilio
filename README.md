@@ -1,4 +1,4 @@
-<h3 align="center">Software & DevOps Engineer</h3>
+<h3 align="center">DevOps Pleno</h3>
 
 <p align="center">
   Construindo soluções robustas, escaláveis e automatizadas.
