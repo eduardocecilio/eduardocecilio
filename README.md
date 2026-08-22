@@ -50,11 +50,3 @@ Atuo na interseção entre o desenvolvimento de software e a infraestrutura, gar
   <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/Databases-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 </p>
-
-<br/>
-
-## 📊 Atividade & Consistência
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardocecilio&theme=radical&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9" alt="GitHub Streak" />
-</div>
