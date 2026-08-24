@@ -1,10 +1,6 @@
 <h3 align="center">DevOps &middot; Infraestrutura, Automação e Integração de Sistemas</h3>
 
 <p align="center">
-  Uberlândia, MG &middot; Cidade Jardim Empreendimentos
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/eduardo-cecilio/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -38,20 +34,6 @@ pé, confiável e sem trabalho repetitivo no meio do caminho.
 | **Automação** | Fluxos em n8n, RPA com TagUI, scripts em Python, JavaScript e Bash, modelagem BPMN |
 | **Integração** | APIs REST, Webhooks, JSON — conectando sistemas de gestão, atendimento e automação |
 | **Dados** | PostgreSQL e MySQL |
-
-## Projetos públicos
-
-**[FareBeacon](https://github.com/eduardocecilio/farebeacon)** &nbsp;·&nbsp; Python, FastAPI, Celery, Redis, PostgreSQL
-Hub open-source de monitoramento de tarifas aéreas, projetado para ser consumido por agentes.
-Normaliza e correlaciona resultados de fontes independentes de coleta.
-&rarr; **[Demo no ar](https://farebeacon.vercel.app)**
-
-**[AdmOS](https://github.com/eduardocecilio/adm-os)** &nbsp;·&nbsp; Vue 3, FastAPI, PostgreSQL, Docker
-Plataforma full-stack de inteligência corporativa para organizar informações financeiras,
-contábeis, estratégicas e de investimentos. Autenticação JWT e CI em GitHub Actions.
-
-**[web-capture](https://github.com/eduardocecilio/web-capture)** &nbsp;·&nbsp; Node.js, JavaScript
-Ferramenta de captura de páginas web, containerizada.
 
 ## Stack
 
